@@ -106,26 +106,21 @@ export default function AboutPage() {
       {/* Team Section */}
       <section className="mb-16">
         <h2 className="mb-8 text-center text-3xl font-bold">Our Team</h2>
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
           {[
             {
-              name: "Alex Johnson",
+              name: "Bekassyl Adenov",
               role: "Founder & CEO",
               image: "/placeholder.svg?height=300&width=300",
             },
             {
-              name: "Sam Rivera",
+              name: "Muhammad Ali Tursunmurodov",
               role: "Head of Operations",
               image: "/placeholder.svg?height=300&width=300",
             },
             {
-              name: "Taylor Kim",
+              name: "Ayubkhon Salimov",
               role: "Community Manager",
-              image: "/placeholder.svg?height=300&width=300",
-            },
-            {
-              name: "Jordan Patel",
-              role: "Restaurant Relations",
               image: "/placeholder.svg?height=300&width=300",
             },
           ].map((member, index) => (
