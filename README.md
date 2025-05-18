@@ -1,30 +1,12 @@
-# Mealshare app features
+# 🍽️ Meal Donation & Food Waste Reduction Platform
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+## 🚀 Overview
+A web-based platform that connects food donors (individuals, restaurants, supermarkets) with recipients (people in need, food banks, NGOs) to **reduce food waste and hunger**. The platform enables **seamless food donations, real-time matching, and volunteer engagement** to promote sustainability.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/bekczs-projects/v0-mealshare-app-features)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/o9EH40XoQHN)
-
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/bekczs-projects/v0-mealshare-app-features](https://vercel.com/bekczs-projects/v0-mealshare-app-features)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/o9EH40XoQHN](https://v0.dev/chat/projects/o9EH40XoQHN)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 🎯 Features
+✅ **Post & Browse Food Donations**  
+✅ **Location-Based Matching**  
+✅ **Secure Messaging & Notifications**  
+✅ **Scheduled & Recurring Donations**  
+✅ **Volunteer Assistance for Food Pickup**  
+✅ **Admin Dashboard for Moderation & Analytics**  
